@@ -1,0 +1,21 @@
+# exceptions
+USER_DETAIL = "user"
+ACCESS_TOKEN_DETAIL = "access_token"
+USER_NOT_FOUND = "User is not found."
+USER_BLOCKED = "User is blocked."
+USER_NOT_ACTIVE = "User is not active."
+WRONG_PASSWORD = "Wrong username or password."
+AUTH_CREDENTIALS = "No credentials are provided."
+REFRESH_TOKEN_EXPIRED = "Your refresh token has expired, please login again."
+ACCESS_TOKEN_EXPIRED = "Your access token has expired."
+TOKEN_PREFIX = "No token prefix"
+
+# statuses
+STATUS_NONE = "status-none"
+PURCHASED = "purchased"
+ZERO = "0"
+ONE = "1"
+TWO = "2"
+THREE = "3"
+FOUR = "4"
+FIVE = "5"
